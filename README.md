@@ -36,7 +36,7 @@
   - Dockerizing and deploying ML apps
 
 - 📫 How to reach me:  
-  📧 [radhakrishnadeekshithmalyavantham@gmail.com](mailto:radhakrishnadeekshithmalyavantham@gmail.com)  
+  📧 [radhakrishnadeekshithmalyavantham@gmail.com](mailto:radhakrishnamalyavantham@gmail.com)  
   💼 [LinkedIn](https://www.linkedin.com/in/radha-krishna-malyavantham/)
 
 - ⚡ Fun fact: I love turning complex research ideas into deployable, user-friendly AI tools. Also, I write Gen Z sarcastic one-liners for fun 🧃
